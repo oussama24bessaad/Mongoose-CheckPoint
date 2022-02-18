@@ -1,0 +1,31 @@
+{
+  "name": "checkpoint-mongoose-person_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Oussama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.2",
+    "routes": "^2.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussama24bessaad/Mongoose-CheckPoint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oussama24bessaad/Mongoose-CheckPoint/issues"
+  },
+  "homepage": "https://github.com/oussama24bessaad/Mongoose-CheckPoint#readme",
+  "description": ""
+}
